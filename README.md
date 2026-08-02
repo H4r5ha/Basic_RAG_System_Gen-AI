@@ -36,7 +36,7 @@ A basic Retrieval-Augmented Generation (RAG) system built using Google Gemini th
 ```
 Basic-RAG-System/
 │
-├── RAG_system.ipynb
+├── Basic_RAG_System_Gen-AI.ipynb
 └── README.md
 ```
 
